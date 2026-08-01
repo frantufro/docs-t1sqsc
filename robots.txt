@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-vemz7j.garuda4dhki.lat/sitemap.xml
